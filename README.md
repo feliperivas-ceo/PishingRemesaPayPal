@@ -9,7 +9,7 @@ Aplicación educativa para registrar y administrar solicitudes de recepción de 
 
 ## Requisitos
 
-- Node.js 20 o superior.
+- Node.js 20 o superiorddd.
 - PostgreSQL local en `localhost:5432`.
 
 ## Configuración local
